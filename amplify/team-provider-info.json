@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ionosphere-dev-220853-authRole",
+            "UnauthRoleArn": "arn:aws:iam::729302264943:role/amplify-ionosphere-dev-220853-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::729302264943:role/amplify-ionosphere-dev-220853-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-ionosphere-dev-220853-deployment",
+            "UnauthRoleName": "amplify-ionosphere-dev-220853-unauthRole",
+            "StackName": "amplify-ionosphere-dev-220853",
+            "StackId": "arn:aws:cloudformation:us-west-2:729302264943:stack/amplify-ionosphere-dev-220853/aafbddc0-9d7c-11ea-acd9-0a25a13ca77a",
+            "AmplifyAppId": "d34hh0mxg54i50"
+        },
+        "categories": {
+            "auth": {
+                "ionosphere81367f1c": {}
+            }
+        }
+    }
+}
